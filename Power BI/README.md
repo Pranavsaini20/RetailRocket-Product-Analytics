@@ -1,13 +1,5 @@
-# Power BI Dashboard
+# Power BI Report
 
-This folder contains information about the Power BI dashboard developed for the RetailRocket Product Analytics Platform.
+Place the final `.pbix` file here if it fits the chosen hosting method. GitHub's standard browser upload limit is 25 MiB per file. If your PBIX is larger, do not split it manually. Options include Git LFS (with separate storage/bandwidth considerations) or an appropriate cloud storage link. Keep dashboard screenshots in `Images/` so the project remains viewable on GitHub.
 
-## Dashboard Pages
-- Executive Overview
-- User Analytics
-- Product Analytics
-- Executive Insights
-
-The dashboard presents key performance indicators, user behavior patterns, product-level metrics, and actionable business insights.
-
-Note: The Power BI report file is large. Access to the report will be provided through an external file-sharing link if available.
+Suggested filename: `RetailRocket_Product_Analytics.pbix`
