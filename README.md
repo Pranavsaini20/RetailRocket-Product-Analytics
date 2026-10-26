@@ -35,6 +35,21 @@ See `Dataset/README.md` for dataset notes. Large raw files are not included in t
 3. **Product Analytics** — availability, product engagement and category/product comparisons.
 4. **Executive Insights** — business summary, key findings and recommendations.
 
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Images/executive_overview.png)
+
+### 2. User Analytics
+![User Analytics](Images/user_analytics.png)
+
+### 3. Product Analytics
+![Product Analytics](Images/product_analytics.png)
+
+### 4. Executive Insights
+![Executive Insights](Images/executive_insights.png)
+
+
 ## Selected current metrics
 | Metric | Approximate value |
 |---|---:|
